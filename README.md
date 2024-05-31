@@ -5,7 +5,9 @@
 
 Jarvis AI Bot is a voice-activated assistant developed in Python that helps users manage their day-to-day tasks through voice commands. Using various Python libraries, Jarvis AI Bot can perform tasks such as opening Google, YouTube, VSCode, playing music, and more.
 
+![jarvis AI – jarvis py 22-12-2023 00_15_13](https://github.com/Vijay1K99/Jarvis/assets/139844971/ef519666-2450-4650-a84b-66c6559b9ce7)
 ![Untitled and 2 more pages - Personal - Microsoft​ Edge 22-12-2023 00_16_01](https://github.com/Vijay1K99/Jarvis/assets/139844971/95b4932a-4249-42bf-9dcb-8eee494ade3d)
+![WhatsApp 22-12-2023 00_22_15](https://github.com/Vijay1K99/Jarvis/assets/139844971/4ff84f95-36b3-4e2d-b2ee-99e1f8dc189b)
 
 
 
